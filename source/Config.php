@@ -1,2 +1,2 @@
 <?php
-define("URL_BASE", "http://localhost/xxx");
+define("URL_BASE", "http://localhost/openlab");

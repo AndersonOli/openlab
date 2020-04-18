@@ -13,10 +13,6 @@ $router->namespace("Source\App");
  */
 $router->group(null);
 $router->get("/", "Web:home");
-$router->get("/admin", "Web:admin");
-$router->get("/login", "Web:login");
-$router->get("/logout", "Web:logout");
-$router->get("/admin/logout", "Web:logout");
 
 /*
  * Controller: WEB
