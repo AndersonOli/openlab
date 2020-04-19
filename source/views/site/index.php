@@ -14,6 +14,7 @@
             </div>
 
             <div class="content-about">
+                <div class="shape"></div>
                 <p>
                     O <span id="marked-link" onclick="redirect('instagram')">@labiras</span> dá início a um novo projeto: o LABIRAS Openlab.
                     Periodicamente, pretendemos compartilhar conhecimentos sobre o âmbito da tecnologia bem como nossas experiências na pesquisa aplicada por meio de mesas redondas, de palestras, de workshops, dentre outras modalidades.

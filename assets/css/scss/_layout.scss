@@ -1,7 +1,7 @@
 //mixin de fonte
 @font-face {
-    font-family: 'Montserrat-Regular';
-    src: url("../font/Montserrat-Regular.otf");
+    font-family: 'Ubuntu';
+    src: url("../font/ubuntu.ttf");
 }
 
 @mixin font($size: initial, $color: #fff, $type: regular, $int: 400){
@@ -10,7 +10,7 @@
         size: $size;
         weight: $int;
         @if $type == 'regular' {
-            family: 'Montserrat-Regular';
+            family: 'Ubuntu';
         }
     }
 }
